@@ -1,4 +1,4 @@
-# Desafio02BootcampRocketSeat
+# Resolução do Desafio 02 - GoStack
 
 <h3 align="center">
   Desafio 02: Conceitos do Node.js
